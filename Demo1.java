@@ -7,13 +7,14 @@ public class Demo1 {
 		String a = "abcd";
 		String b = new String("abcd");
 		String c = "Abcd";
-		String d = "Abcdeg";
+		String d = "Abcdeg44";
 		
 		System.out.println(a.charAt(0)==b.charAt(0));
+System.out.println(a.charAt(0)==b.charAt(0));
 		
 	/*	System.out.println(a.charAt(3));
 		System.out.println(a.equals(b));
-		System.out.println(a.equalsIgnoreCase(c));
+		
 		System.out.println(a.equals(c));
 		System.out.println(a.replace('a', 'b'));
 		System.out.println(a.replace("ab", "ba"));
