@@ -4,13 +4,14 @@ import java.util.Scanner;
 
 public class Demo1 {
 	public static void main(String[] args) {
-		String a = "abcd";
-		String b = new String("abcd");
-		String c = "Abcd";
-		String d = "Abcdeg44";
+		System.out.println("hello world");
+// 		String a = "abcd";
+// 		String b = new String("abcd");
+// 		String c = "Abcd";
+// 		String d = "Abcdeg44";
 		
-		System.out.println(a.charAt(0)==b.charAt(0));
-System.out.println(a.charAt(0)==b.charAt(0));
+// 		System.out.println(a.charAt(0)==b.charAt(0));
+// System.out.println(a.charAt(0)==b.charAt(0));
 		
 	/*	System.out.println(a.charAt(3));
 		System.out.println(a.equals(b));
@@ -60,6 +61,6 @@ System.out.println(a.charAt(0)==b.charAt(0));
 				f++;
 			}
 		}
-		System.out.println("´óĞ´£º"+d+"£¬Ğ¡Ğ´£º"+x+"£¬ÆäËû£º"+f);*/
+		System.out.println("å¤§å†™ï¼š"+d+"ï¼Œå°å†™ï¼š"+x+"ï¼Œå…¶ä»–ï¼š"+f);*/
 	}
 }
